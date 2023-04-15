@@ -1,0 +1,45 @@
+@charset "UTF-8";
+
+*{
+   font-family: Arial, Helvetica, sans-serif; 
+  
+}
+
+body{
+    background-color: #BF9780;
+   
+    
+}
+main{
+
+    background-image: linear-gradient(to right,#012340,#0367A6);
+    border-radius: 10px;
+    box-shadow: 5px 5px 20px #03415979;
+    width: 600px;
+    padding: 10px;
+    margin: auto;
+}
+h1{
+    color:#012340;
+    text-align: center;
+    text-shadow: 10px 10px 20px 1 #012340;
+}
+h2{
+    text-align: center;
+    color: #03588C
+}
+h3{
+    text-align: center;
+    color: #03588C }
+p{
+    
+    text-align: justify;
+    }
+
+section{text-align: center;}
+#Contatos{color: crimson;}
+
+p.Atuação{
+    text-indent: 30px;
+}
+

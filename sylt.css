@@ -1,0 +1,75 @@
+@charset "UTF-8";
+
+*{
+   font-family: Arial, Helvetica, sans-serif; 
+  
+}
+
+body{
+   
+    background-image: linear-gradient(to bottom
+    ,#010101,#211F20);
+    
+}
+/* a logo que ta no cabeçario*/
+div{
+    text-align: center;
+    height: 40px;
+    width: 200px;
+    font-size: large;
+    display: inline-block;
+}
+
+#logo{
+    float: left;
+}
+header{
+    background-color: #211F20;
+    
+}
+/*parte principal*/
+main{
+    background-color: #211F20;
+    border-radius: 10px;
+    box-shadow: 10px 5px 20px #DBA646;
+    width: 650px;
+    padding: 10px;
+    margin: auto;
+}
+h1{
+    color:#DBA646;
+    text-align: center;
+    text-shadow: 1px 1px 2px #DBA646 ;
+}
+h2{
+    text-align: center;
+    color: #EFD282
+}
+h3{
+    text-align: center;
+    color: #EFD282 }
+p{
+    color:white;
+    text-align: justify;
+    }
+
+section{text-align: center;}
+#Contatos{color: crimson;}
+
+p.Atuação{
+    text-indent: 30px;
+}
+
+ul{color:#F3D98E
+
+}
+a{color:#EFD282}
+img{
+    
+    border: 4px solid #F3D98E;
+    border-style: double;
+}
+/* a parte do rodape*/
+footer{
+    background-color: #211F20;
+}
